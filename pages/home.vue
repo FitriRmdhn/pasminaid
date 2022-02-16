@@ -1,0 +1,8 @@
+<template>
+  <div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-4">Pasminaid</h1>
+    <p class="lead">Selamat Datang di Toko Kami.</p>
+  </div>
+</div>
+</template>
